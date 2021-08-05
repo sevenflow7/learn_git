@@ -9,3 +9,5 @@ add something for dev branch
 
 create a new branch is quick and simple.
 
+test no-ff mode
+
