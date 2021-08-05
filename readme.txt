@@ -6,3 +6,4 @@ if a > b then del 1.txt
 else set b = 100
 
 add something for dev branch
+create a new branch is quick and simple.
